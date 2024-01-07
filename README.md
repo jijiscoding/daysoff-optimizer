@@ -1,2 +1,3 @@
-# daysoff-optimizer
-Days off optimizer.
+# DaysOff Optimizer
+
+DaysOff optimizer.
